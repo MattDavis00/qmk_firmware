@@ -30,6 +30,7 @@
 api_data/v1
 quantum/version.h
 *.bin
+!keychron_q5_iso_encoder_via.bin
 *.eep
 *.hex
 *.qmk
